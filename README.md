@@ -26,10 +26,10 @@ Feature Engineering: Extracted valuable features, including encoding categorical
 ### **Evaluation and Selection:**
 
 Evaluated model performance using appropriate metrics.
-CatBoost emerged as the most effective model for the given task.
+RandomForest emerged as the most effective model for the given task.
 
 ### **Conclusion:**
-Through rigorous data analysis, feature engineering, and the application of various machine learning models, the project aims to predict which passengers were transported to an alternate dimension. CatBoost, with its superior performance, was identified as the optimal model for making predictions.
+Through rigorous data analysis, feature engineering, and the application of various machine learning models, the project aims to predict which passengers were transported to an alternate dimension. RandomForest, with its superior performance, was identified as the optimal model for making predictions.
 
 ### **Mission:**
 Rescue the lost passengers, change history, and contribute to the ongoing interstellar mission. Your predictions will aid rescue crews in retrieving those lost in the cosmic anomaly.<br>
